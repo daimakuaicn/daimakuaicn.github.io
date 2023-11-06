@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-708b954b","path":"/Java/Java%E5%88%9D%E7%BA%A7/","title":"Java初级","lang":"zh-CN","frontmatter":{"title":"Java初级","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

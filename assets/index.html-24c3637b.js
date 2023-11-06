@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-02eec242","path":"/%E9%A1%B9%E7%9B%AE/1.%E5%B0%9A%E5%93%81%E7%94%84%E9%80%89/","title":"1.尚品甄选","lang":"zh-CN","frontmatter":{"title":"1.尚品甄选","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

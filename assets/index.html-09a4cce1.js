@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e831d0fc","path":"/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%BE%E4%BB%B6/","title":"课件","lang":"zh-CN","frontmatter":{"title":"课件","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
